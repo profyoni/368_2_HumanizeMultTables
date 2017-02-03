@@ -9,7 +9,7 @@ namespace HumanizeMultTables
     class Program
     {
         static void Main(string[] args)
-        { 
+        {
         }
     }
 }
