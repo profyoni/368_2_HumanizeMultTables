@@ -5,4 +5,4 @@ install:
   - nuget install NUnit.ConsoleRunner -Version 3.6.0 -OutputDirectory testrunner 
 script:
   - xbuild /p:Configuration=Release HumanizeMultTables.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.3.6.0/tools/nunit3-console.exe ./Travis1CSharp.Test/bin/Release/HumanizeMultTables.Test.dll
+  - mono ./testrunner/NUnit.ConsoleRunner.3.6.0/tools/nunit3-console.exe ./HumanizeMultTables.Test/bin/Release/HumanizeMultTables.Test.dll
