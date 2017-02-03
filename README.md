@@ -17,3 +17,6 @@ e.g. `MultiplierRow(5, 1, 4)` will return the 5th row in a mult table starting a
   Test your methods including for exceptions
   
   Add your travis link here
+
+
+[![codecov](https://codecov.io/gh/profyoni/368_2_HumanizeMultTables/branch/master/graph/badge.svg)](https://codecov.io/gh/profyoni/368_2_HumanizeMultTables)
